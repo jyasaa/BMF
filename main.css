@@ -1,0 +1,27 @@
+
+.container {
+    margin: 10px;
+  }
+  
+  .canvas {
+    border: 2px gray solid;
+    background-color: mintcream;
+    
+  }
+  
+  .button {
+    margin: 10px;
+    border: none;
+    background: lightgray;
+    font-size: 1rem;
+    height: 40px;
+    width: 120px;
+  }
+  
+  .button:active {
+    background: gray;
+  }
+  
+  .button:focus {
+    outline: none;
+  }
